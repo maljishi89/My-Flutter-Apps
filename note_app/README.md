@@ -2,6 +2,8 @@
 
 A flutter application that let you to create and mange your notes and backup them
 
+- A video of the app (https://www.youtube.com/watch?v=Pgef0UpsPGQ&t=2s)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
